@@ -1,0 +1,31 @@
+.tweet-container {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  width: 540px;
+  padding: 20px;
+  font-family: "Helvetica";
+  display: flex;
+}
+
+.content {
+  margin-left: 12px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.handle {
+  margin-left: 4px;
+  font-size: 14px;
+  color: grey;
+}
+
+.message {
+  margin-top: 6px;
+}
+
+.time-posted {
+  margin-top: 10px;
+  font-size: 14px;
+}
